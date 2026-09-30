@@ -1,2 +1,2 @@
-Repository latihan git pertama sya.git
+Repository latihan git pertama saya.git
 Target: memahami staging dan commit.
